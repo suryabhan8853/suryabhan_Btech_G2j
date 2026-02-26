@@ -10,4 +10,5 @@ int main () {
     }
     printf("product of number is : %d",product);
     return 0;
+
 }
