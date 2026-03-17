@@ -9,7 +9,7 @@ int main (){
     printf("Enter time : ");
     scanf("%f",&time);
     si = (principal * rate * time)/100;
-    A = principal * pow((1 + rate/100), time);
+    A = principal * pow((1 + rate/100), time));
     ci = A - principal; 
     printf("Your simple interest is : %f\n",si);
     printf("Compound Interest is : %f\n",ci);
