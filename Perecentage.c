@@ -5,8 +5,6 @@ int main() {
     float m3 = 85; // chem marks
     float m4 = 90; // english marks
     float m5 = 92; // hindi marks
-    sum = m1+ m2 + m3 + m4 + m5;
-    printf("sum = %d",sum);
     float p = (m1 + m2 + m3 + m4 + m5)/5;
     printf("%f", p);
     return 0;
