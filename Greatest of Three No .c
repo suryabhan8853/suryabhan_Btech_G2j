@@ -14,7 +14,7 @@ int main(){
             printf("b is greatest number");
         }
             else {
-            printf("c is greatese number");
+            printf("c is greatest number");
             }
          
     
