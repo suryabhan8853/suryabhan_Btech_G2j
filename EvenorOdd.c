@@ -12,7 +12,7 @@ int main(){
             printf("odd number");
         }
        if(b % 2==0){
-        printf("Even number");
+        printf("\nEven number");
     }
         else{
             printf("odd number"); 
