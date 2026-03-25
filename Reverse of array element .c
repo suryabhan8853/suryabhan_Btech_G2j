@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-    int a[100],n,d,rev,i;
+    int a[100],n,rev,i;
     printf("Enter no of element ");
     scanf("%d",&n);
     printf("Element of array\n");
